@@ -1,0 +1,7 @@
+{
+  "name": "MockAI Studio - Instant Mock API & Frontend Glue Generator",
+  "description": "Generate live interactive mock REST APIs, realistic dummy data, and ready-to-copy frontend fetch snippets in seconds using AI from plain text descriptions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
